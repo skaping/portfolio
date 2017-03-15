@@ -3,9 +3,12 @@
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
-
+h1 {
+  font-family: 'Playfair Display', serif;
+}
 body {
   background-color: #dadada;
+  body-font: font-family: 'Raleway', sans-serif;
 }
 
 nav {
@@ -48,7 +51,7 @@ nav ul li a, footer ul li a {
 }
 
 .hero {
-  background-image: url('https://static.pexels.com/photos/349447/pexels-photo-349447.jpeg');
+  background-image: url(Computer_Collage_horzC.jpg);
   background-size: cover;
 }
 
