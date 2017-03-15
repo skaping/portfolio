@@ -8,7 +8,7 @@ h1 {
 }
 body {
   background-color: #dadada;
-  body-font: font-family: 'Raleway', sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 
 nav {
@@ -37,7 +37,7 @@ nav img {
 }
 
 nav ul li:hover {
-  background-color: green;
+  background-color: #E75A59;
   display: inline-block;
   float: right;
   text-decoration: none;
@@ -53,6 +53,8 @@ nav ul li a, footer ul li a {
 .hero {
   background-image: url(Computer_Collage_horzC.jpg);
   background-size: cover;
+
+
 }
 
 .container {
@@ -77,6 +79,7 @@ nav ul li a, footer ul li a {
 
 .hero h1 {
   font-size: 2em;
+  font-color: white;
 }
 
 .project, .case {
@@ -97,9 +100,12 @@ nav ul li a, footer ul li a {
 
 footer {
   width: 100%;
-  background-color: #333333;
+  background-color: #ffffff;
   height: 200px;
   margin-top: 100px;
+  font-family: 'Raleway', sans-serif;
+  font color: #E75A59;
+
 }
 
 
