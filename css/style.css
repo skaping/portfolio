@@ -34,17 +34,18 @@ nav ul, footer ul {
 nav img {
   width: 30%;
   float: left;
+  margin-left: 20px;
 }
 
 nav ul li:hover {
-  background-color: #E75A59;
+  background-color: #ffffff;
   display: inline-block;
   float: right;
   text-decoration: none;
 }
 
 nav ul li a, footer ul li a {
-  color: #777777;
+  color: #E75A59;
   text-decoration: none;
   float: right;
   padding: 20px;
