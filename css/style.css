@@ -51,7 +51,7 @@ nav ul li a, footer ul li a {
 }
 
 .hero {
-  background-image: url(Computer_Collage_horzC.jpg);
+  background-image: url('../images/Computer_Collage_horzC.jpg');
   background-size: cover;
 
 
@@ -59,7 +59,7 @@ nav ul li a, footer ul li a {
 
 .container {
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   margin: 0 auto;
   width: 96%;
 }
